@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="siblings.xsl"?>
+  <my_siblings>
+    <siblings>
+      <name>Christian Lee O. Ferrer</name>
+      <age>22</age>
+      <school>Bestlink College of the Philippines</school>
+      <hobby>Basketball</hobby>
+    </siblings>
+    <siblings>
+      <name>Paul Justin O. Ferrer</name>
+      <age>18</age>
+      <school>South East Asia Institute of Trade and Technology</school>
+      <hobby>League of Legends</hobby>
+    </siblings>
+    <siblings>
+      <name>Scarlet O. Ferrer</name>
+      <age>5</age>
+      <school>Melencio M. Castle Elementary School</school>
+      <hobby>Roblox</hobby>
+    </siblings>
+  </my_siblings>
